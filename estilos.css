@@ -1,0 +1,188 @@
+.navbar{
+    background-color: rgb(4, 14, 120);
+}
+
+.navbar span{
+    color: black;
+}
+
+.nav-link{
+    color: rgb(246, 246, 247) !important;
+    padding-left: 20px !important;
+}
+.nav-link:hover{
+    color: #03bbf8 !important;
+    font-weight: bold;
+    background-color: rgb(228, 231, 232);
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+.fa-bars{
+    color: rgb(0, 195, 255);
+}
+
+.carrusel1{
+    background-image: url(./img/Gone\ Surfin’\ Tee\ Dress.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    color: rgb(94, 80, 172);
+    text-shadow: 0 0 5px #060606;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.carrusel1 p{
+    color: #fff;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(4, 14, 120);
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 0;
+}
+
+.nuevo{
+    height: 400px;
+}
+
+.nuevo .row{
+    height: 400px;
+}
+
+.nleft{
+    background-image: url(./img/Vans\ Mens\ Sk8-Low\ Shoes\ in\ Black\ _\ Size\ 09.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.nright h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+.item{
+    height: 250px;
+    background-color: rgb(4, 14, 120);
+    border: 5px solid rgb(248, 248, 247);
+    
+}
+
+.item1{
+
+    background-image: url(./img/a76623a930e73c539518e9520e10afbe.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item2{
+
+    background-image: url(./img/All.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item3{
+
+    background-image: url(./img/cf144d69946bccd403f3a63279e0d52f.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item4{
+
+    background-image: url(./img/d8dd4bd72cd11e1e6585b562d25aee3b.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item5{
+
+    background-image: url(./img/descarga.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item6{
+
+    background-image: url(./img/descarga\ \(1\).jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item7{
+
+    background-image: url(./img/descarga\ \(2\).jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item8{
+
+    background-image: url(./img/Retro\ Surf\ Stitching\ Polos\ Zipper\ Sweatshirt.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.item9{
+
+    background-image: url(./img/Surfboard\ Shapes\ 101.jpg);
+    background-position: center;
+    background-size: contain;
+    
+}
+
+footer{
+
+    background-color: black;
+    height: 80px;
+    text-align: center;
+    padding: auto;
+}
+
+.foot{
+    color: #ffffffe9;
+}
+
+.nosotros2{
+    background-image: url(./img/iconic\ denim\ photos.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 5px #dfdee1;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.nosotros2 p{
+    color: #000000;
+}
+
+.marca{
+    height: 400px;
+}
+
+.marca .row{
+    height: 400px;
+}
+
+.texto h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+}
