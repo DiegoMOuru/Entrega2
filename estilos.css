@@ -79,6 +79,9 @@ h2{
     background-image: url(./img/a76623a930e73c539518e9520e10afbe.jpg);
     background-position: center;
     background-size: contain;
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
     
 }
 
@@ -87,6 +90,9 @@ h2{
     background-image: url(./img/All.jpg);
     background-position: center;
     background-size: contain;
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
     
 }
 
@@ -95,6 +101,9 @@ h2{
     background-image: url(./img/cf144d69946bccd403f3a63279e0d52f.jpg);
     background-position: center;
     background-size: contain;
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
     
 }
 
@@ -103,7 +112,9 @@ h2{
     background-image: url(./img/d8dd4bd72cd11e1e6585b562d25aee3b.jpg);
     background-position: center;
     background-size: contain;
-    
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
 }
 
 .item5{
@@ -111,6 +122,9 @@ h2{
     background-image: url(./img/descarga.jpg);
     background-position: center;
     background-size: contain;
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
     
 }
 
@@ -119,6 +133,9 @@ h2{
     background-image: url(./img/descarga\ \(1\).jpg);
     background-position: center;
     background-size: contain;
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
     
 }
 
@@ -127,6 +144,9 @@ h2{
     background-image: url(./img/descarga\ \(2\).jpg);
     background-position: center;
     background-size: contain;
+    animation: efecto;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
     
 }
 
