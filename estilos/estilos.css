@@ -19,13 +19,15 @@
 .navbar-toggler{
     border: none;
 }
-
+#colorbtn{
+    background-color: #dfdee1;
+}
 .fa-bars{
     color: rgb(248, 248, 248);
 }
 
 .carrusel1{
-    background-image: url(./img/Gone\ Surfin’\ Tee\ Dress.jpg);
+    background-image: url(../img/Gone\ Surfin’\ Tee\ Dress.jpg);
     background-size: cover;
     background-position: center;
     height: 550px;
@@ -56,7 +58,7 @@ h2{
 }
 
 .nleft{
-    background-image: url(./img/Vans\ Mens\ Sk8-Low\ Shoes\ in\ Black\ _\ Size\ 09.jpg);
+    background-image: url(../img/Vans\ Mens\ Sk8-Low\ Shoes\ in\ Black\ _\ Size\ 09.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -76,95 +78,87 @@ h2{
 
 .item1{
 
-    background-image: url(./img/a76623a930e73c539518e9520e10afbe.jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-    
-}
-
-.item2{
-
-    background-image: url(./img/All.jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-    
-}
-
-.item3{
-
-    background-image: url(./img/cf144d69946bccd403f3a63279e0d52f.jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-    
-}
-
-.item4{
-
-    background-image: url(./img/d8dd4bd72cd11e1e6585b562d25aee3b.jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-}
-
-.item5{
-
-    background-image: url(./img/descarga.jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-    
-}
-
-.item6{
-
-    background-image: url(./img/descarga\ \(1\).jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-    
-}
-
-.item7{
-
-    background-image: url(./img/descarga\ \(2\).jpg);
-    background-position: center;
-    background-size: contain;
-    animation: efecto;
-    animation-duration: 8s;
-    animation-timing-function: ease-in;
-    
-}
-
-.item8{
-
-    background-image: url(./img/Retro\ Surf\ Stitching\ Polos\ Zipper\ Sweatshirt.jpg);
-    background-position: center;
+    height: auto;
+    width: 100%;
+    padding: auto;
     background-size: contain;
     
-}
+ }
+ .item2{
 
-.item9{
-
-    background-image: url(./img/Surfboard\ Shapes\ 101.jpg);
-    background-position: center;
+    height: auto;
+    width: 100%;
+    padding: auto;
     background-size: contain;
     
-}
+ }
+ .item3{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+ .item4{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+ .item5{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+ .item6{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+ .item7{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+ .item8{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+ .item9{
+
+    height: auto;
+    width: 100%;
+    padding: auto;
+    background-size: contain;
+    
+ }
+
+ img{
+    transition: all  0.8s ease;
+
+ }
+
+ img:hover{
+    filter: grayscale(1);
+    transition: all 0.6 ease;
+
+ }
 
 footer{
 
@@ -179,27 +173,32 @@ footer{
 }
 
 .nosotros2{
-    background-image: url(./img/iconic\ denim\ photos.jpg);
+    background-image: url(../img/iconic\ denim\ photos.jpg);
     background-size: cover;
     background-position: center;
     height: 550px;
-    color: rgb(255, 255, 255);
-    text-shadow: 0 0 5px #dfdee1;
+    color: rgb(255, 0, 0);
+    text-shadow: 0 0 20px #5500ff;
     border-radius: 0;
     margin-bottom: 0;
 }
 
 .nosotros2 p{
-    color: #000000;
+    color: #fffefe;
+    text-shadow: #5500ff;
 }
 
 .marca{
     height: 400px;
+    padding: auto;
 }
 
 .marca .row{
     height: 400px;
 }
+
+
+
 
 .texto h3{
     text-align: center;
@@ -209,30 +208,51 @@ footer{
 
 .itemC1{
 
-    background-image: url(./img/creador.jpg);
-    background-position: center;
-    background-size: contain;
-
+   height: auto;
+   width: 100%;
+   padding: auto;
+   background-size: contain;
+   
 }
 .itemC2{
 
-    background-image: url(./img/crador2.jpg);
-    background-position: center;
+    height: auto;
+    width: 100%;
+    padding: auto;
     background-size: contain;
+    
+ }
+ .itemC3{
 
-}
-.itemC3{
-
-    background-image: url(./img/crador3.jpg);
-    background-position: center;
+    height: auto;
+    width: 100%;
+    padding: auto;
     background-size: contain;
+    
+ }
 
-}
+.itemC1:hover .itemC1 {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.itemC1 {overflow:hidden;}
+
+.itemC2:hover .itemC2 {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.itemC2 {overflow:hidden;}
+
+.itemC3:hover .itemC3 {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.itemC3 {overflow:hidden;}
+
+
+
+
 
 .mapa{
-    padding: auto;
+    background-image: url(../img/tienda.jpg);
+    background-size: cover;
 }
 
+.mapa h3{
+    color: #fff;
+
+}
 .texto{
     background-color: blue;
     color: black;
@@ -251,7 +271,7 @@ footer{
 
 .item11{
 
-    background-image: url(./img/Playa2.jpg);
+    background-image: url(../img/Playa2.jpg);
     background-position: center;
     background-size:contain;
 
@@ -259,7 +279,7 @@ footer{
 
 .item22{
 
-    background-image: url(./img/Playa3.jpg);
+    background-image: url(../img/Playa3.jpg);
     background-position: center;
     background-size:contain;
 
@@ -267,7 +287,7 @@ footer{
 
 .item33{
 
-    background-image: url(./img/Playa4.jpg);
+    background-image: url(../img/Playa4.jpg);
     background-position: center;
     background-size:contain;
 
@@ -276,7 +296,7 @@ footer{
 .vision{
 
     
-        background-image: url(./img/Playa.jpg);
+        background-image: url(../img/Playa.jpg);
         background-size: cover;
         background-position: center;
         height: 550px;
@@ -289,7 +309,7 @@ footer{
     .nleftV{
 
         
-            background-image: url(./img/Playa5.jpg);
+            background-image: url(../img/Playa5.jpg);
             background-size: cover;
             background-position: center;
         }
@@ -299,7 +319,7 @@ footer{
         .clases{
 
     
-            background-image: url(./img/clases.jpg);
+            background-image: url(../img/clases.jpg);
             background-size: cover;
             background-position: center;
             height: 550px;
@@ -313,7 +333,7 @@ footer{
         .nleftS{
 
         
-            background-image: url(./img//a76623a930e73c539518e9520e10afbe.jpg);
+            background-image: url(../img//a76623a930e73c539518e9520e10afbe.jpg);
             background-size: cover;
             background-position: center;
         }
@@ -321,7 +341,7 @@ footer{
         .nrightS{
 
         
-            background-image: url(./img/cf144d69946bccd403f3a63279e0d52f.jpg);
+            background-image: url(../img/cf144d69946bccd403f3a63279e0d52f.jpg);
             background-size: cover;
             background-position: center;
         }
@@ -330,7 +350,7 @@ footer{
         .sale1{
 
     
-            background-image: url(./img/sale.jpg);
+            background-image: url(../img/sale.jpg);
             background-size: cover;
             background-position: center;
             height: 550px;
